@@ -77,8 +77,7 @@ Power BI HR analytics dashboard analyzing 3,000+ US employee records: performanc
 ## Files Included
 | File | Description |
 |---|---|
-| `hr_dataset_dashboard_RA.pbix` | Main Power BI dashboard file |
-| `hr_dataset.zip` | Dataset files (CSV, PDF, TXT etc.) — extract before use |
+| `hr_dataset.zip` | Dataset files (CSV, PDF, TXT etc.) and Main Power BI dashboard file — extract before use |
 | `HR_Dataset_Recommendation_Letter.doc` | Dashboard report and recommendation |
 
 
